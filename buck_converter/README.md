@@ -5,8 +5,8 @@ A 5V fixed-output step-down (buck) DC-DC converter, designed in KiCad
 
 
 
-<img width="827" height="467" alt="image" src="https://github.com/user-attachments/assets/dc0a1a0b-3248-4252-8c70-6e7e012b72e6" />
-<img width="807" height="382" alt="image" src="https://github.com/user-attachments/assets/9debdd85-830e-4672-b0ad-3ac94b91a530" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/dc0a1a0b-3248-4252-8c70-6e7e012b72e6" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9debdd85-830e-4672-b0ad-3ac94b91a530" />
 
 
 
