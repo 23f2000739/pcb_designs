@@ -6,7 +6,7 @@ A 5V fixed-output step-down (buck) DC-DC converter, designed in KiCad
 
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/dc0a1a0b-3248-4252-8c70-6e7e012b72e6" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9debdd85-830e-4672-b0ad-3ac94b91a530" />
+
 
 
 
@@ -35,5 +35,12 @@ LM2596S-5 switching regulator (150 kHz, up to 3A).
 - ## PCB design notes
 - 1.2mm traces for input and output paths
 - Catch diode and capacitors placed close to the regulator to keep the
-  switching loop short
-- Feedback trace routed separately from the switching node
+  switching loop short.
+
+- <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/9debdd85-830e-4672-b0ad-3ac94b91a530" />
+
+
+## 3d view
+<img width="1337" height="754" alt="buck converter" src="https://github.com/user-attachments/assets/fb3d3859-e56f-4828-9520-fa95a03df442" />
+
+
